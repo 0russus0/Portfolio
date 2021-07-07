@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@500;600;700&family=Raleway:ital,wght@0,200;0,400;0,500;0,600;0,700;0,900;1,200;1,400;1,500;1,600;1,700;1,900&display=swap');
+
+:root{
+/* ================ ENRICHISSEMNTS DIVERS ================ */
+
+--font-family-text: 'Raleway', 'Verdana', sans-serif;
+--font-family-bigTitle: 'Dosis', sans-serif;
+--general-shadow: 0px 0px 23px 5px rgba(114,115,116,0.38);
+--general-border-radius:5px;
+
+/* ================ COULEURS ================ */
+--color-white:#F4F5F6;
+--color-cyan:#2DAAA9;
+--color-yellow:#F0B05D;
+--color-red:#F75951;
+--color-violet:#6476A6;
+--color-black:#404040;
+--color-grey:#727374;
+--color-electric-blue:#425ADF;
+
+/* ================ TAILLES & MEDIAS QUERYS ================ */
+
+--min-width:320px;
+--max-width:1920px;
+--media-480:480px;
+--media-768:768px;
+
+}
